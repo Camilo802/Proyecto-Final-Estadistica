@@ -1,4 +1,4 @@
-# Proyecto-Final-Estadística
+# Proyecto-Final-Estadística 1 grupo 7
 Descripción
 Este repositorio corresponde al proyecto realizado para la materia de estadística, el proyecto consiste en responder la pregunta de investigación:
 
